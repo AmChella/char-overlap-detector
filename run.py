@@ -526,6 +526,8 @@ def main():
         epilog='''
 Examples:
   python run.py                              # Process all PDFs with watermark filtering
+  python run.py --input "file.pdf"           # Process a single PDF file
+  python run.py --input "*.pdf"              # Process PDFs matching pattern
   python run.py --include-watermarks         # Include watermarks in overlap detection
   python run.py --trim-whitespace            # Trim character-specific whitespace (reduces false positives)
   python run.py --trim-whitespace --trim-scale 0.5  # Less aggressive trimming
@@ -537,6 +539,8 @@ Examples:
   python run.py --no-labels --json           # No position labels, with JSON export
         ''')
     
+    parser.add_argument('--input', type=str, default=None, metavar='FILE_OR_PATTERN',
+                        help='Input PDF file or glob pattern (e.g., "*.pdf", "file.pdf"). If not specified, processes all PDFs in pdfs/ directory')
     parser.add_argument('--include-watermarks', action='store_true',
                         help='Include watermark text in overlap detection (default: filter out watermarks)')
     parser.add_argument('--no-labels', action='store_true',
@@ -561,8 +565,23 @@ Examples:
     enable_char_trim = args.trim_whitespace
     trim_scale = float(args.trim_scale)
     
-    pdf_dir = os.path.join(os.path.dirname(__file__), "pdfs")
-    all_pdf_paths = sorted(glob.glob(os.path.join(pdf_dir, "*.pdf")))
+    # Determine input files
+    if args.input:
+        # User specified a file or pattern
+        if '*' in args.input or '?' in args.input:
+            # It's a glob pattern
+            all_pdf_paths = sorted(glob.glob(args.input))
+        else:
+            # It's a single file
+            if os.path.isfile(args.input):
+                all_pdf_paths = [args.input]
+            else:
+                print(f"Error: File not found: {args.input}")
+                return
+    else:
+        # Default: process all PDFs in pdfs/ directory
+        pdf_dir = os.path.join(os.path.dirname(__file__), "pdfs")
+        all_pdf_paths = sorted(glob.glob(os.path.join(pdf_dir, "*.pdf")))
     
     # Skip already-marked PDFs
     pdf_paths = [p for p in all_pdf_paths if not p.endswith('_marked.pdf')]

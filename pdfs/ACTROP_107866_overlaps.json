@@ -1,493 +1,95 @@
 {
   "pdf_file": "ACTROP_107866.pdf",
-  "pdf_path": "/home/chellapandi/Office/overlaps-detector/pdfs/ACTROP_107866.pdf",
-  "total_overlaps": 22,
+  "pdf_path": "pdfs/ACTROP_107866.pdf",
+  "total_overlaps": 4,
   "overlaps_by_page": {
-    "1": [
-      {
-        "char_a": "*",
-        "char_b": ",",
-        "overlap_percentage": {
-          "overlap_area": 0.52,
-          "percentage_of_char_a": 4.3,
-          "percentage_of_char_b": 3.39,
-          "percentage_of_union": 1.93
-        },
-        "position_a": {
-          "x": 163.6300048828125,
-          "y": 211.54969787597656,
-          "width": 3.519989013671875,
-          "height": 3.400315284729004
-        },
-        "position_b": {
-          "x": 166.7550048828125,
-          "y": 213.64617919921875,
-          "width": 2.96588134765625,
-          "height": 5.119804859161377
-        }
-      },
-      {
-        "char_a": "c",
-        "char_b": ",",
-        "overlap_percentage": {
-          "overlap_area": 0.52,
-          "percentage_of_char_a": 4.62,
-          "percentage_of_char_b": 3.39,
-          "percentage_of_union": 2.0
-        },
-        "position_a": {
-          "x": 338.25201416015625,
-          "y": 211.54969787597656,
-          "width": 3.27923583984375,
-          "height": 3.400315284729004
-        },
-        "position_b": {
-          "x": 341.135986328125,
-          "y": 213.64617919921875,
-          "width": 2.96588134765625,
-          "height": 5.119804859161377
-        }
-      },
-      {
-        "char_a": "c",
-        "char_b": ",",
-        "overlap_percentage": {
-          "overlap_area": 0.52,
-          "percentage_of_char_a": 4.62,
-          "percentage_of_char_b": 3.39,
-          "percentage_of_union": 2.0
-        },
-        "position_a": {
-          "x": 443.4440002441406,
-          "y": 211.54969787597656,
-          "width": 3.27923583984375,
-          "height": 3.400315284729004
-        },
-        "position_b": {
-          "x": 446.3280029296875,
-          "y": 213.64617919921875,
-          "width": 2.96588134765625,
-          "height": 5.119804859161377
-        }
-      },
-      {
-        "char_a": "c",
-        "char_b": ",",
-        "overlap_percentage": {
-          "overlap_area": 0.51,
-          "percentage_of_char_a": 4.61,
-          "percentage_of_char_b": 3.39,
-          "percentage_of_union": 1.99
-        },
-        "position_a": {
-          "x": 153.02999877929688,
-          "y": 224.54969787597656,
-          "width": 3.2792205810546875,
-          "height": 3.400315284729004
-        },
-        "position_b": {
-          "x": 155.9149932861328,
-          "y": 226.64617919921875,
-          "width": 2.96588134765625,
-          "height": 5.119804859161377
-        }
-      },
-      {
-        "char_a": "e",
-        "char_b": ",",
-        "overlap_percentage": {
-          "overlap_area": 0.52,
-          "percentage_of_char_a": 4.39,
-          "percentage_of_char_b": 3.39,
-          "percentage_of_union": 1.95
-        },
-        "position_a": {
-          "x": 318.8580017089844,
-          "y": 224.54969787597656,
-          "width": 3.45098876953125,
-          "height": 3.400315284729004
-        },
-        "position_b": {
-          "x": 321.91400146484375,
-          "y": 226.64617919921875,
-          "width": 2.96588134765625,
-          "height": 5.119804859161377
-        }
-      },
-      {
-        "char_a": "c",
-        "char_b": ",",
-        "overlap_percentage": {
-          "overlap_area": 0.51,
-          "percentage_of_char_a": 4.61,
-          "percentage_of_char_b": 3.39,
-          "percentage_of_union": 1.99
-        },
-        "position_a": {
-          "x": 140.7220001220703,
-          "y": 237.54969787597656,
-          "width": 3.2792205810546875,
-          "height": 3.400315284729004
-        },
-        "position_b": {
-          "x": 143.60699462890625,
-          "y": 239.64617919921875,
-          "width": 2.96588134765625,
-          "height": 5.119804859161377
-        }
-      },
-      {
-        "char_a": "*",
-        "char_b": ",",
-        "overlap_percentage": {
-          "overlap_area": 1.29,
-          "percentage_of_char_a": 10.76,
-          "percentage_of_char_b": 8.48,
-          "percentage_of_union": 4.98
-        },
-        "position_a": {
-          "x": 238.1999969482422,
-          "y": 237.54969787597656,
-          "width": 3.519989013671875,
-          "height": 3.400315284729004
-        },
-        "position_b": {
-          "x": 240.73199462890625,
-          "y": 239.64617919921875,
-          "width": 2.96588134765625,
-          "height": 5.119804859161377
-        }
-      }
-    ],
     "4": [
-      {
-        "char_a": "/",
-        "char_b": "(",
-        "overlap_percentage": {
-          "overlap_area": 0.49,
-          "percentage_of_char_a": 1.98,
-          "percentage_of_char_b": 3.29,
-          "percentage_of_union": 1.25
-        },
-        "position_a": {
-          "x": 225.18899536132812,
-          "y": 170.55764770507812,
-          "width": 4.7262725830078125,
-          "height": 5.236362457275391
-        },
-        "position_b": {
-          "x": 229.7830047607422,
-          "y": 169.03164672851562,
-          "width": 2.8453216552734375,
-          "height": 5.236362457275391
-        }
-      },
-      {
-        "char_a": "b",
-        "char_b": "A",
-        "overlap_percentage": {
-          "overlap_area": 0.45,
-          "percentage_of_char_a": 2.95,
-          "percentage_of_char_b": 2.15,
-          "percentage_of_union": 1.26
-        },
-        "position_a": {
-          "x": 319.2105712890625,
-          "y": 170.3224334716797,
-          "width": 3.922882080078125,
-          "height": 3.8495631217956543
-        },
-        "position_b": {
-          "x": 318.52301025390625,
-          "y": 166.58641052246094,
-          "width": 5.370269775390625,
-          "height": 3.8495631217956543
-        }
-      },
-      {
-        "char_a": "e",
-        "char_b": "l",
-        "overlap_percentage": {
-          "overlap_area": 0.27,
-          "percentage_of_char_a": 2.02,
-          "percentage_of_char_b": 2.95,
-          "percentage_of_union": 1.21
-        },
-        "position_a": {
-          "x": 323.1334533691406,
-          "y": 170.3224334716797,
-          "width": 3.4598388671875,
-          "height": 3.8495631217956543
-        },
-        "position_b": {
-          "x": 323.8932800292969,
-          "y": 166.58641052246094,
-          "width": 2.3663330078125,
-          "height": 3.8495631217956543
-        }
-      },
-      {
-        "char_a": "r",
-        "char_b": "l",
-        "overlap_percentage": {
-          "overlap_area": 0.23,
-          "percentage_of_char_a": 2.01,
-          "percentage_of_char_b": 2.53,
-          "percentage_of_union": 1.13
-        },
-        "position_a": {
-          "x": 326.5932922363281,
-          "y": 170.3224334716797,
-          "width": 2.9808349609375,
-          "height": 3.8495631217956543
-        },
-        "position_b": {
-          "x": 326.2596130371094,
-          "y": 166.58641052246094,
-          "width": 2.3663330078125,
-          "height": 3.8495631217956543
-        }
-      },
-      {
-        "char_a": "o",
-        "char_b": "s",
-        "overlap_percentage": {
-          "overlap_area": 0.35,
-          "percentage_of_char_a": 2.28,
-          "percentage_of_char_b": 2.9,
-          "percentage_of_union": 1.3
-        },
-        "position_a": {
-          "x": 329.5741271972656,
-          "y": 170.3224334716797,
-          "width": 4.032073974609375,
-          "height": 3.8495631217956543
-        },
-        "position_b": {
-          "x": 330.48297119140625,
-          "y": 166.58641052246094,
-          "width": 3.171295166015625,
-          "height": 3.8495631217956543
-        }
-      },
-      {
-        "char_a": "f",
-        "char_b": "t",
-        "overlap_percentage": {
-          "overlap_area": 0.31,
-          "percentage_of_char_a": 1.64,
-          "percentage_of_char_b": 2.95,
-          "percentage_of_union": 1.06
-        },
-        "position_a": {
-          "x": 333.606201171875,
-          "y": 170.3224334716797,
-          "width": 4.8760986328125,
-          "height": 3.8495631217956543
-        },
-        "position_b": {
-          "x": 333.6542663574219,
-          "y": 166.58641052246094,
-          "width": 2.708251953125,
-          "height": 3.8495631217956543
-        }
-      },
-      {
-        "char_a": "a",
-        "char_b": "i",
-        "overlap_percentage": {
-          "overlap_area": 0.27,
-          "percentage_of_char_a": 1.72,
-          "percentage_of_char_b": 2.95,
-          "percentage_of_union": 1.1
-        },
-        "position_a": {
-          "x": 341.9501037597656,
-          "y": 170.3224334716797,
-          "width": 4.152435302734375,
-          "height": 3.8495631217956543
-        },
-        "position_b": {
-          "x": 343.1259765625,
-          "y": 166.58641052246094,
-          "width": 2.416534423828125,
-          "height": 3.8495631217956543
-        }
-      },
-      {
-        "char_a": "p",
-        "char_b": "s",
-        "overlap_percentage": {
-          "overlap_area": 0.3,
-          "percentage_of_char_a": 1.96,
-          "percentage_of_char_b": 2.43,
-          "percentage_of_union": 1.1
-        },
-        "position_a": {
-          "x": 346.1025390625,
-          "y": 170.3224334716797,
-          "width": 3.938018798828125,
-          "height": 3.8495631217956543
-        },
-        "position_b": {
-          "x": 345.5425109863281,
-          "y": 166.58641052246094,
-          "width": 3.171295166015625,
-          "height": 3.8495631217956543
-        }
-      },
-      {
-        "char_a": "u",
-        "char_b": "c",
-        "overlap_percentage": {
-          "overlap_area": 0.32,
-          "percentage_of_char_a": 1.96,
-          "percentage_of_char_b": 2.22,
-          "percentage_of_union": 1.05
-        },
-        "position_a": {
-          "x": 352.42999267578125,
-          "y": 170.3224334716797,
-          "width": 4.199462890625,
-          "height": 3.8495631217956543
-        },
-        "position_b": {
-          "x": 353.8385925292969,
-          "y": 166.58641052246094,
-          "width": 3.71246337890625,
-          "height": 3.8495631217956543
-        }
-      },
-      {
-        "char_a": "s",
-        "char_b": "a",
-        "overlap_percentage": {
-          "overlap_area": 0.29,
-          "percentage_of_char_a": 2.55,
-          "percentage_of_char_b": 1.85,
-          "percentage_of_union": 1.08
-        },
-        "position_a": {
-          "x": 375.9203186035156,
-          "y": 170.3224334716797,
-          "width": 2.949737548828125,
-          "height": 3.8495631217956543
-        },
-        "position_b": {
-          "x": 374.41107177734375,
-          "y": 166.58641052246094,
-          "width": 4.055206298828125,
-          "height": 3.8495631217956543
-        }
-      },
       {
         "char_a": ")",
         "char_b": "l",
         "overlap_percentage": {
-          "overlap_area": 2.76,
-          "percentage_of_char_a": 18.51,
-          "percentage_of_char_b": 30.27,
-          "percentage_of_union": 12.98
+          "overlap_area": 0.27,
+          "percentage_of_char_a": 2.72,
+          "percentage_of_char_b": 6.15,
+          "percentage_of_union": 1.92
         },
         "position_a": {
-          "x": 378.8689880371094,
-          "y": 169.03164672851562,
-          "width": 2.8453369140625,
-          "height": 5.236362457275391
+          "x": 379.0966149902344,
+          "y": 169.55528297424317,
+          "width": 2.3900830078124997,
+          "height": 4.189089965820312
         },
         "position_b": {
-          "x": 378.4662780761719,
-          "y": 166.58641052246094,
-          "width": 2.3663330078125,
-          "height": 3.8495631217956543
+          "x": 378.7502380371094,
+          "y": 167.27933188438416,
+          "width": 1.7984130859374998,
+          "height": 2.463720397949219
         }
       },
       {
         "char_a": ")",
         "char_b": "y",
         "overlap_percentage": {
-          "overlap_area": 1.24,
-          "percentage_of_char_a": 8.31,
-          "percentage_of_char_b": 7.62,
-          "percentage_of_union": 4.14
+          "overlap_area": 0.18,
+          "percentage_of_char_a": 1.78,
+          "percentage_of_char_b": 1.59,
+          "percentage_of_union": 0.85
         },
         "position_a": {
-          "x": 378.8689880371094,
-          "y": 169.03164672851562,
-          "width": 2.8453369140625,
-          "height": 5.236362457275391
+          "x": 379.0966149902344,
+          "y": 169.55528297424317,
+          "width": 2.3900830078124997,
+          "height": 4.189089965820312
         },
         "position_b": {
-          "x": 380.8326110839844,
-          "y": 166.58641052246094,
-          "width": 4.222564697265625,
-          "height": 3.8495631217956543
-        }
-      },
-      {
-        "char_a": "(",
-        "char_b": "m",
-        "overlap_percentage": {
-          "overlap_area": 0.51,
-          "percentage_of_char_a": 3.44,
-          "percentage_of_char_b": 2.16,
-          "percentage_of_union": 1.34
-        },
-        "position_a": {
-          "x": 49.665000915527344,
-          "y": 194.11264038085938,
-          "width": 2.8453292846679688,
-          "height": 5.236362457275391
-        },
-        "position_b": {
-          "x": 52.37699890136719,
-          "y": 195.40342712402344,
-          "width": 6.184009552001953,
-          "height": 3.8495631217956543
+          "x": 381.128190612793,
+          "y": 166.9713668346405,
+          "width": 3.6314056396484373,
+          "height": 3.079650497436523
         }
       },
       {
         "char_a": "l",
         "char_b": "w",
         "overlap_percentage": {
-          "overlap_area": 2.38,
-          "percentage_of_char_a": 29.24,
-          "percentage_of_char_b": 9.9,
-          "percentage_of_union": 7.99
+          "overlap_area": 0.39,
+          "percentage_of_char_a": 9.86,
+          "percentage_of_char_b": 2.36,
+          "percentage_of_union": 1.94
         },
         "position_a": {
-          "x": 305.43414306640625,
-          "y": 209.8494110107422,
-          "width": 2.112884521484375,
-          "height": 3.8495631217956543
+          "x": 305.68768920898435,
+          "y": 210.5423323726654,
+          "width": 1.6057922363281252,
+          "height": 2.463720397949219
         },
         "position_b": {
-          "x": 306.5679931640625,
-          "y": 208.42942810058594,
-          "width": 6.2421875,
-          "height": 3.8495631217956543
+          "x": 307.0049462890625,
+          "y": 208.8143844127655,
+          "width": 5.368281249999999,
+          "height": 3.079650497436523
         }
       },
       {
         "char_a": "e",
         "char_b": "w",
         "overlap_percentage": {
-          "overlap_area": 8.41,
-          "percentage_of_char_a": 63.11,
-          "percentage_of_char_b": 34.98,
-          "percentage_of_union": 29.04
+          "overlap_area": 4.94,
+          "percentage_of_char_a": 53.89,
+          "percentage_of_char_b": 29.87,
+          "percentage_of_union": 23.79
         },
         "position_a": {
-          "x": 307.5470275878906,
-          "y": 209.8494110107422,
-          "width": 3.4598388671875,
-          "height": 3.8495631217956543
+          "x": 307.7892163085937,
+          "y": 210.23436732292174,
+          "width": 2.9754614257812495,
+          "height": 3.079650497436523
         },
         "position_b": {
-          "x": 306.5679931640625,
-          "y": 208.42942810058594,
-          "width": 6.2421875,
-          "height": 3.8495631217956543
+          "x": 307.0049462890625,
+          "y": 208.8143844127655,
+          "width": 5.368281249999999,
+          "height": 3.079650497436523
         }
       }
     ]
