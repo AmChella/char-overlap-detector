@@ -1,0 +1,1077 @@
+{
+  "pdf_file": "CACE_108782.pdf",
+  "pdf_path": "/home/chellapandi/Office/overlaps-detector/pdfs/CACE_108782.pdf",
+  "total_overlaps": 48,
+  "overlaps_by_page": {
+    "1": [
+      {
+        "char_a": "*",
+        "char_b": ",",
+        "overlap_percentage": {
+          "overlap_area": 0.51,
+          "percentage_of_char_a": 4.3,
+          "percentage_of_char_b": 3.39,
+          "percentage_of_union": 1.93
+        },
+        "position_a": {
+          "x": 103.66000366210938,
+          "y": 211.4026641845703,
+          "width": 3.5199966430664062,
+          "height": 3.400315284729004
+        },
+        "position_b": {
+          "x": 106.78500366210938,
+          "y": 213.49920654296875,
+          "width": 2.96588134765625,
+          "height": 5.119804859161377
+        }
+      }
+    ],
+    "2": [
+      {
+        "char_a": "\u02dc",
+        "char_b": "T",
+        "overlap_percentage": {
+          "overlap_area": 10.15,
+          "percentage_of_char_a": 42.14,
+          "percentage_of_char_b": 56.06,
+          "percentage_of_union": 31.67
+        },
+        "position_a": {
+          "x": 306.9110107421875,
+          "y": 397.14398193359375,
+          "width": 4.584014892578125,
+          "height": 5.25600004196167
+        },
+        "position_b": {
+          "x": 306.5679931640625,
+          "y": 400.06298828125,
+          "width": 4.68719482421875,
+          "height": 3.864000082015991
+        }
+      }
+    ],
+    "3": [
+      {
+        "char_a": "[",
+        "char_b": "u",
+        "overlap_percentage": {
+          "overlap_area": 0.51,
+          "percentage_of_char_a": 3.31,
+          "percentage_of_char_b": 3.17,
+          "percentage_of_union": 1.65
+        },
+        "position_a": {
+          "x": 351.05499267578125,
+          "y": 130.18563842773438,
+          "width": 2.948944091796875,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 353.8710021972656,
+          "y": 131.47642517089844,
+          "width": 4.199462890625,
+          "height": 3.8495631217956543
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "1",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.55,
+          "percentage_of_char_b": 2.75,
+          "percentage_of_union": 1.34
+        },
+        "position_a": {
+          "x": 358.125,
+          "y": 128.99908447265625,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 360.1969909667969,
+          "y": 129.96438598632812,
+          "width": 2.905426025390625,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "1",
+        "char_b": ")",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.73,
+          "percentage_of_char_b": 2.54,
+          "percentage_of_union": 1.33
+        },
+        "position_a": {
+          "x": 360.1969909667969,
+          "y": 129.96438598632812,
+          "width": 2.905426025390625,
+          "height": 2.492588996887207
+        },
+        "position_b": {
+          "x": 363.02301025390625,
+          "y": 128.99908447265625,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "n",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.52,
+          "percentage_of_char_b": 2.89,
+          "percentage_of_union": 1.36
+        },
+        "position_a": {
+          "x": 383.37799072265625,
+          "y": 128.99908447265625,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 385.45098876953125,
+          "y": 129.96438598632812,
+          "width": 2.734100341796875,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "i",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.55,
+          "percentage_of_char_b": 5.82,
+          "percentage_of_union": 1.81
+        },
+        "position_a": {
+          "x": 334.8940124511719,
+          "y": 410.1630554199219,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 336.96600341796875,
+          "y": 411.12841796875,
+          "width": 1.373260498046875,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "i",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.52,
+          "percentage_of_char_b": 5.75,
+          "percentage_of_union": 1.78
+        },
+        "position_a": {
+          "x": 369.0849914550781,
+          "y": 411.5510559082031,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 371.1579895019531,
+          "y": 412.51641845703125,
+          "width": 1.373260498046875,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "i",
+        "char_b": ")",
+        "overlap_percentage": {
+          "overlap_area": 0.11,
+          "percentage_of_char_a": 3.3,
+          "percentage_of_char_b": 1.44,
+          "percentage_of_union": 1.01
+        },
+        "position_a": {
+          "x": 371.1579895019531,
+          "y": 412.51641845703125,
+          "width": 1.373260498046875,
+          "height": 2.492588996887207
+        },
+        "position_b": {
+          "x": 372.4859924316406,
+          "y": 411.5510559082031,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "1",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.52,
+          "percentage_of_char_b": 2.72,
+          "percentage_of_union": 1.33
+        },
+        "position_a": {
+          "x": 494.8810119628906,
+          "y": 431.58306884765625,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 496.9540100097656,
+          "y": 432.54840087890625,
+          "width": 2.905426025390625,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "1",
+        "char_b": ")",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.77,
+          "percentage_of_char_b": 2.57,
+          "percentage_of_union": 1.35
+        },
+        "position_a": {
+          "x": 496.9540100097656,
+          "y": 432.54840087890625,
+          "width": 2.905426025390625,
+          "height": 2.492588996887207
+        },
+        "position_b": {
+          "x": 499.77899169921875,
+          "y": 431.58306884765625,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "n",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.55,
+          "percentage_of_char_b": 2.93,
+          "percentage_of_union": 1.38
+        },
+        "position_a": {
+          "x": 520.135009765625,
+          "y": 431.58306884765625,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 522.2069702148438,
+          "y": 432.54840087890625,
+          "width": 2.734130859375,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "i",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.52,
+          "percentage_of_char_b": 5.75,
+          "percentage_of_union": 1.78
+        },
+        "position_a": {
+          "x": 527.8900146484375,
+          "y": 453.0130615234375,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 529.9630126953125,
+          "y": 453.9783935546875,
+          "width": 1.37322998046875,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "f",
+        "char_b": "h",
+        "overlap_percentage": {
+          "overlap_area": 0.45,
+          "percentage_of_char_a": 2.4,
+          "percentage_of_char_b": 6.68,
+          "percentage_of_union": 1.8
+        },
+        "position_a": {
+          "x": 306.6400146484375,
+          "y": 489.8414306640625,
+          "width": 4.8760986328125,
+          "height": 3.8495631217956543
+        },
+        "position_b": {
+          "x": 310.656005859375,
+          "y": 493.16741943359375,
+          "width": 2.70367431640625,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "k",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.55,
+          "percentage_of_char_b": 3.05,
+          "percentage_of_union": 1.41
+        },
+        "position_a": {
+          "x": 311.5400085449219,
+          "y": 485.97607421875,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 313.61199951171875,
+          "y": 486.94140625,
+          "width": 2.625732421875,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "k",
+        "char_b": ")",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 3.04,
+          "percentage_of_char_b": 2.55,
+          "percentage_of_union": 1.4
+        },
+        "position_a": {
+          "x": 313.61199951171875,
+          "y": 486.94140625,
+          "width": 2.625732421875,
+          "height": 2.492588996887207
+        },
+        "position_b": {
+          "x": 316.1579895019531,
+          "y": 485.97607421875,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "i",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.52,
+          "percentage_of_char_b": 5.75,
+          "percentage_of_union": 1.78
+        },
+        "position_a": {
+          "x": 388.4230041503906,
+          "y": 480.4210510253906,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 390.4960021972656,
+          "y": 481.38641357421875,
+          "width": 1.373260498046875,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "f",
+        "char_b": "h",
+        "overlap_percentage": {
+          "overlap_area": 0.45,
+          "percentage_of_char_a": 2.4,
+          "percentage_of_char_b": 6.68,
+          "percentage_of_union": 1.8
+        },
+        "position_a": {
+          "x": 343.5769958496094,
+          "y": 514.8184204101562,
+          "width": 4.8760986328125,
+          "height": 3.8495631217956543
+        },
+        "position_b": {
+          "x": 347.5929870605469,
+          "y": 518.1443481445312,
+          "width": 2.70367431640625,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "k",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.55,
+          "percentage_of_char_b": 3.05,
+          "percentage_of_union": 1.41
+        },
+        "position_a": {
+          "x": 348.47601318359375,
+          "y": 510.95306396484375,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 350.5480041503906,
+          "y": 511.9184265136719,
+          "width": 2.625732421875,
+          "height": 2.492588996887207
+        }
+      },
+      {
+        "char_a": "k",
+        "char_b": ")",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 3.04,
+          "percentage_of_char_b": 2.55,
+          "percentage_of_union": 1.4
+        },
+        "position_a": {
+          "x": 350.5480041503906,
+          "y": 511.9184265136719,
+          "width": 2.625732421875,
+          "height": 2.492588996887207
+        },
+        "position_b": {
+          "x": 353.093994140625,
+          "y": 510.95306396484375,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "4",
+        "overlap_percentage": {
+          "overlap_area": 0.51,
+          "percentage_of_char_a": 3.03,
+          "percentage_of_char_b": 2.96,
+          "percentage_of_union": 1.52
+        },
+        "position_a": {
+          "x": 320.15899658203125,
+          "y": 574.6655883789062,
+          "width": 3.21990966796875,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 323.2460021972656,
+          "y": 575.9574584960938,
+          "width": 4.4871826171875,
+          "height": 3.8495631217956543
+        }
+      },
+      {
+        "char_a": "/",
+        "char_b": "3",
+        "overlap_percentage": {
+          "overlap_area": 0.51,
+          "percentage_of_char_a": 3.17,
+          "percentage_of_char_b": 2.95,
+          "percentage_of_union": 1.55
+        },
+        "position_a": {
+          "x": 336.65301513671875,
+          "y": 574.984619140625,
+          "width": 3.07647705078125,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 339.59698486328125,
+          "y": 575.9574584960938,
+          "width": 4.4871826171875,
+          "height": 3.8495631217956543
+        }
+      },
+      {
+        "char_a": "\u23a7",
+        "char_b": "\u23aa",
+        "overlap_percentage": {
+          "overlap_area": 5.98,
+          "percentage_of_char_a": 23.9,
+          "percentage_of_char_b": 23.9,
+          "percentage_of_union": 13.57
+        },
+        "position_a": {
+          "x": 345.4320068359375,
+          "y": 633.235595703125,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 345.4320068359375,
+          "y": 637.2205810546875,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "\u23a8",
+        "char_b": "\u23aa",
+        "overlap_percentage": {
+          "overlap_area": 5.98,
+          "percentage_of_char_a": 23.88,
+          "percentage_of_char_b": 23.88,
+          "percentage_of_union": 13.56
+        },
+        "position_a": {
+          "x": 345.4320068359375,
+          "y": 648.7445678710938,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 345.4320068359375,
+          "y": 652.7305908203125,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "|",
+        "char_b": "|",
+        "overlap_percentage": {
+          "overlap_area": 3.91,
+          "percentage_of_char_a": 35.09,
+          "percentage_of_char_b": 35.09,
+          "percentage_of_union": 21.28
+        },
+        "position_a": {
+          "x": 359.2179870605469,
+          "y": 649.5015869140625,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 359.2179870605469,
+          "y": 652.9005737304688,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "|",
+        "char_b": "|",
+        "overlap_percentage": {
+          "overlap_area": 3.91,
+          "percentage_of_char_a": 35.09,
+          "percentage_of_char_b": 35.09,
+          "percentage_of_union": 21.28
+        },
+        "position_a": {
+          "x": 368.760009765625,
+          "y": 649.5015869140625,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 368.760009765625,
+          "y": 652.9005737304688,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "\u23ab",
+        "char_b": "\u23aa",
+        "overlap_percentage": {
+          "overlap_area": 5.98,
+          "percentage_of_char_a": 23.9,
+          "percentage_of_char_b": 23.9,
+          "percentage_of_union": 13.57
+        },
+        "position_a": {
+          "x": 424.61199951171875,
+          "y": 633.235595703125,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 424.61199951171875,
+          "y": 637.2205810546875,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "\u23ac",
+        "char_b": "\u23aa",
+        "overlap_percentage": {
+          "overlap_area": 5.98,
+          "percentage_of_char_a": 23.88,
+          "percentage_of_char_b": 23.88,
+          "percentage_of_union": 13.56
+        },
+        "position_a": {
+          "x": 424.61199951171875,
+          "y": 648.7445678710938,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 424.61199951171875,
+          "y": 652.7305908203125,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "|",
+        "char_b": "|",
+        "overlap_percentage": {
+          "overlap_area": 9.0,
+          "percentage_of_char_a": 80.81,
+          "percentage_of_char_b": 80.81,
+          "percentage_of_union": 67.8
+        },
+        "position_a": {
+          "x": 330.6940002441406,
+          "y": 672.7075805664062,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 330.6940002441406,
+          "y": 673.7125854492188,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "|",
+        "char_b": "|",
+        "overlap_percentage": {
+          "overlap_area": 9.0,
+          "percentage_of_char_a": 80.81,
+          "percentage_of_char_b": 80.81,
+          "percentage_of_union": 67.8
+        },
+        "position_a": {
+          "x": 415.75799560546875,
+          "y": 672.7075805664062,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 415.75799560546875,
+          "y": 673.7125854492188,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "|",
+        "char_b": "|",
+        "overlap_percentage": {
+          "overlap_area": 9.01,
+          "percentage_of_char_a": 80.83,
+          "percentage_of_char_b": 80.83,
+          "percentage_of_union": 67.82
+        },
+        "position_a": {
+          "x": 331.0929870605469,
+          "y": 696.0446166992188,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 331.0929870605469,
+          "y": 697.048583984375,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "|",
+        "char_b": "|",
+        "overlap_percentage": {
+          "overlap_area": 9.01,
+          "percentage_of_char_a": 80.83,
+          "percentage_of_char_b": 80.83,
+          "percentage_of_union": 67.82
+        },
+        "position_a": {
+          "x": 416.156005859375,
+          "y": 696.0446166992188,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 416.156005859375,
+          "y": 697.048583984375,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        }
+      }
+    ],
+    "4": [
+      {
+        "char_a": "(",
+        "char_b": "d",
+        "overlap_percentage": {
+          "overlap_area": 0.51,
+          "percentage_of_char_a": 3.23,
+          "percentage_of_char_b": 3.19,
+          "percentage_of_union": 1.63
+        },
+        "position_a": {
+          "x": 82.20099639892578,
+          "y": 628.8916015625,
+          "width": 3.0366134643554688,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 85.10399627685547,
+          "y": 630.1834106445312,
+          "width": 4.1914825439453125,
+          "height": 3.8495631217956543
+        }
+      },
+      {
+        "char_a": "/",
+        "char_b": "d",
+        "overlap_percentage": {
+          "overlap_area": 0.48,
+          "percentage_of_char_a": 1.93,
+          "percentage_of_char_b": 2.96,
+          "percentage_of_union": 1.18
+        },
+        "position_a": {
+          "x": 94.41999816894531,
+          "y": 630.4185791015625,
+          "width": 4.7262725830078125,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 99.01399993896484,
+          "y": 630.1834106445312,
+          "width": 4.1914825439453125,
+          "height": 3.8495631217956543
+        }
+      },
+      {
+        "char_a": "\u23a7",
+        "char_b": "\u23aa",
+        "overlap_percentage": {
+          "overlap_area": 5.98,
+          "percentage_of_char_a": 23.9,
+          "percentage_of_char_b": 23.9,
+          "percentage_of_union": 13.57
+        },
+        "position_a": {
+          "x": 370.15399169921875,
+          "y": 286.09564208984375,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 370.15399169921875,
+          "y": 290.08062744140625,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "\u23a8",
+        "char_b": "\u23aa",
+        "overlap_percentage": {
+          "overlap_area": 5.98,
+          "percentage_of_char_a": 23.88,
+          "percentage_of_char_b": 23.88,
+          "percentage_of_union": 13.56
+        },
+        "position_a": {
+          "x": 370.15399169921875,
+          "y": 301.6046447753906,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 370.15399169921875,
+          "y": 305.59063720703125,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "|",
+        "char_b": "|",
+        "overlap_percentage": {
+          "overlap_area": 3.91,
+          "percentage_of_char_a": 35.09,
+          "percentage_of_char_b": 35.09,
+          "percentage_of_union": 21.28
+        },
+        "position_a": {
+          "x": 382.99200439453125,
+          "y": 302.36163330078125,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 382.99200439453125,
+          "y": 305.7606201171875,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "|",
+        "char_b": "|",
+        "overlap_percentage": {
+          "overlap_area": 3.91,
+          "percentage_of_char_a": 35.09,
+          "percentage_of_char_b": 35.09,
+          "percentage_of_union": 21.28
+        },
+        "position_a": {
+          "x": 394.42999267578125,
+          "y": 302.36163330078125,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 394.42999267578125,
+          "y": 305.7606201171875,
+          "width": 2.128021240234375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "\u23ab",
+        "char_b": "\u23aa",
+        "overlap_percentage": {
+          "overlap_area": 5.98,
+          "percentage_of_char_a": 23.9,
+          "percentage_of_char_b": 23.9,
+          "percentage_of_union": 13.57
+        },
+        "position_a": {
+          "x": 453.12298583984375,
+          "y": 286.09564208984375,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 453.12298583984375,
+          "y": 290.08062744140625,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "\u23ac",
+        "char_b": "\u23aa",
+        "overlap_percentage": {
+          "overlap_area": 5.98,
+          "percentage_of_char_a": 23.88,
+          "percentage_of_char_b": 23.88,
+          "percentage_of_union": 13.56
+        },
+        "position_a": {
+          "x": 453.12298583984375,
+          "y": 301.6046447753906,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 453.12298583984375,
+          "y": 305.59063720703125,
+          "width": 4.782073974609375,
+          "height": 5.236362457275391
+        }
+      },
+      {
+        "char_a": "\u02dc",
+        "char_b": "U",
+        "overlap_percentage": {
+          "overlap_area": 10.63,
+          "percentage_of_char_a": 44.47,
+          "percentage_of_char_b": 49.02,
+          "percentage_of_union": 30.41
+        },
+        "position_a": {
+          "x": 319.65399169921875,
+          "y": 519.4475708007812,
+          "width": 4.566864013671875,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 318.91400146484375,
+          "y": 522.3554077148438,
+          "width": 5.634857177734375,
+          "height": 3.8495631217956543
+        }
+      },
+      {
+        "char_a": "\u02dc",
+        "char_b": "U",
+        "overlap_percentage": {
+          "overlap_area": 10.63,
+          "percentage_of_char_a": 44.47,
+          "percentage_of_char_b": 49.02,
+          "percentage_of_union": 30.41
+        },
+        "position_a": {
+          "x": 350.1210021972656,
+          "y": 519.4475708007812,
+          "width": 4.566864013671875,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 349.3800048828125,
+          "y": 522.3554077148438,
+          "width": 5.634857177734375,
+          "height": 3.8495631217956543
+        }
+      },
+      {
+        "char_a": "\u02dc",
+        "char_b": "U",
+        "overlap_percentage": {
+          "overlap_area": 10.63,
+          "percentage_of_char_a": 44.45,
+          "percentage_of_char_b": 49.0,
+          "percentage_of_union": 30.39
+        },
+        "position_a": {
+          "x": 331.0190124511719,
+          "y": 537.24560546875,
+          "width": 4.566864013671875,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 330.27899169921875,
+          "y": 540.1544189453125,
+          "width": 5.634857177734375,
+          "height": 3.8495631217956543
+        }
+      },
+      {
+        "char_a": "\u02dc",
+        "char_b": "u",
+        "overlap_percentage": {
+          "overlap_area": 15.69,
+          "percentage_of_char_a": 65.62,
+          "percentage_of_char_b": 97.06,
+          "percentage_of_union": 64.34
+        },
+        "position_a": {
+          "x": 306.4110107421875,
+          "y": 576.7786254882812,
+          "width": 4.566864013671875,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 306.5679931640625,
+          "y": 578.2784423828125,
+          "width": 4.199462890625,
+          "height": 3.8495631217956543
+        }
+      }
+    ],
+    "6": [
+      {
+        "char_a": "(",
+        "char_b": "y",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.55,
+          "percentage_of_char_b": 2.74,
+          "percentage_of_union": 1.34
+        },
+        "position_a": {
+          "x": 416.7149963378906,
+          "y": 493.3460693359375,
+          "width": 2.1519775390625,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 418.7869873046875,
+          "y": 494.3114013671875,
+          "width": 2.917816162109375,
+          "height": 2.492588996887207
+        }
+      }
+    ],
+    "7": [
+      {
+        "char_a": "(",
+        "char_b": "l",
+        "overlap_percentage": {
+          "overlap_area": 0.51,
+          "percentage_of_char_a": 3.44,
+          "percentage_of_char_b": 6.31,
+          "percentage_of_union": 2.28
+        },
+        "position_a": {
+          "x": 395.0119934082031,
+          "y": 59.63961410522461,
+          "width": 2.8453369140625,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 397.7239990234375,
+          "y": 60.93144226074219,
+          "width": 2.112884521484375,
+          "height": 3.8495631217956543
+        }
+      }
+    ],
+    "8": [
+      {
+        "char_a": "(",
+        "char_b": "l",
+        "overlap_percentage": {
+          "overlap_area": 0.51,
+          "percentage_of_char_a": 3.42,
+          "percentage_of_char_b": 6.26,
+          "percentage_of_union": 2.26
+        },
+        "position_a": {
+          "x": 109.24400329589844,
+          "y": 183.00961303710938,
+          "width": 2.8453292846679688,
+          "height": 5.236362457275391
+        },
+        "position_b": {
+          "x": 111.95700073242188,
+          "y": 184.30039978027344,
+          "width": 2.1128768920898438,
+          "height": 3.8495631217956543
+        }
+      },
+      {
+        "char_a": "(",
+        "char_b": "y",
+        "overlap_percentage": {
+          "overlap_area": 0.2,
+          "percentage_of_char_a": 2.55,
+          "percentage_of_char_b": 2.93,
+          "percentage_of_union": 1.38
+        },
+        "position_a": {
+          "x": 96.31999969482422,
+          "y": 527.926025390625,
+          "width": 2.1519851684570312,
+          "height": 3.6279296875
+        },
+        "position_b": {
+          "x": 98.39199829101562,
+          "y": 528.8914184570312,
+          "width": 2.7341079711914062,
+          "height": 2.492588996887207
+        }
+      }
+    ]
+  }
+}
